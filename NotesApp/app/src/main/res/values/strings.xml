@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="update">Update</string>
+    <string name="Add">Add</string>
+</resources>
